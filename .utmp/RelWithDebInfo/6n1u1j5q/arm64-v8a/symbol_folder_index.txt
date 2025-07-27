@@ -1,0 +1,1 @@
+C:\Users\letsg\Unity Projects\Space Shooter\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\6n1u1j5q\obj\arm64-v8a

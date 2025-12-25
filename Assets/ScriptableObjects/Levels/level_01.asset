@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc487412cf3a5243a2d6785e5b45f54, type: 3}
+  m_Name: level_01
+  m_EditorClassIdentifier: 
+  m_Title: First flight
+  m_SceneName: level_01
+  m_SceneDescription: Fly carefully through an asteroid field and reach the destination
+    point
+  m_PreviewImage: {fileID: 936936353392363057, guid: 481c5d9cfa6457645b18c9ba46f2b0bf, type: 3}
+  m_NextLevel: {fileID: 11400000, guid: 818e4cb0997362d4db762a5c15fa1e11, type: 2}
+  m_BackgroundMusic: {fileID: 8300000, guid: 41da27d842c9ab84ebb7615af04a0b2a, type: 3}

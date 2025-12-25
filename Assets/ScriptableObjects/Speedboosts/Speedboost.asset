@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70d14f267957e204095e4a679ec15136, type: 3}
+  m_Name: Speedboost
+  m_EditorClassIdentifier: 
+  m_BonusSpeed: 50
+  m_Duration: 8
+  m_PowerupType: 0
+  m_AudioStart: {fileID: 8300000, guid: a2f3af36caa6e3044bff7800a4b74c81, type: 3}
+  m_AudioEnd: {fileID: 8300000, guid: 37a2ea57dbe44d14f8a93607fad68a95, type: 3}
+  Timer: -0.00022811745

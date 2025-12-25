@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: c1ff4de8602e5a741b5200fdd5eb5542
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2607089436635393926
+    second: cartoon-bomb-explosion-storyboard-animation_0
+  - first:
+      213: -4200388379862246178
+    second: cartoon-bomb-explosion-storyboard-animation_1
+  - first:
+      213: -4575090377691457568
+    second: cartoon-bomb-explosion-storyboard-animation_2
+  - first:
+      213: 7162994020733183569
+    second: cartoon-bomb-explosion-storyboard-animation_3
+  - first:
+      213: -9142553839481878556
+    second: cartoon-bomb-explosion-storyboard-animation_4
+  - first:
+      213: -3335462088786979044
+    second: cartoon-bomb-explosion-storyboard-animation_5
+  - first:
+      213: 4162425345934368451
+    second: cartoon-bomb-explosion-storyboard-animation_6
+  - first:
+      213: -4829922340658377539
+    second: cartoon-bomb-explosion-storyboard-animation_7
+  - first:
+      213: 3398685820722804492
+    second: cartoon-bomb-explosion-storyboard-animation_8
+  - first:
+      213: -7649872963901112169
+    second: cartoon-bomb-explosion-storyboard-animation_9
+  - first:
+      213: 5521220642930155963
+    second: cartoon-bomb-explosion-storyboard-animation_10
+  - first:
+      213: 5227198673504627374
+    second: cartoon-bomb-explosion-storyboard-animation_11
+  - first:
+      213: -865360060097245882
+    second: cartoon-bomb-explosion-storyboard-animation_12
+  - first:
+      213: 4274430044256993512
+    second: cartoon-bomb-explosion-storyboard-animation_13
+  - first:
+      213: 6462524646673183272
+    second: cartoon-bomb-explosion-storyboard-animation_14
+  - first:
+      213: 7971203808051706658
+    second: cartoon-bomb-explosion-storyboard-animation_15
+  - first:
+      213: 2559627204369194526
+    second: cartoon-bomb-explosion-storyboard-animation_16
+  - first:
+      213: 3727853291455366031
+    second: cartoon-bomb-explosion-storyboard-animation_17
+  - first:
+      213: 9192921625247821495
+    second: cartoon-bomb-explosion-storyboard-animation_18
+  - first:
+      213: 5909980272999147785
+    second: cartoon-bomb-explosion-storyboard-animation_19
+  - first:
+      213: -5340236125146323089
+    second: cartoon-bomb-explosion-storyboard-animation_20
+  - first:
+      213: 667483801809417881
+    second: cartoon-bomb-explosion-storyboard-animation_21
+  - first:
+      213: 3074194210537125938
+    second: cartoon-bomb-explosion-storyboard-animation_22
+  - first:
+      213: 3720876855074908031
+    second: cartoon-bomb-explosion-storyboard-animation_23
+  - first:
+      213: -5278780976832951429
+    second: cartoon-bomb-explosion-storyboard-animation_24
+  - first:
+      213: -4222948373630878000
+    second: cartoon-bomb-explosion-storyboard-animation_25
+  - first:
+      213: 3511636972280458274
+    second: cartoon-bomb-explosion-storyboard-animation_26
+  - first:
+      213: -3143706869019476395
+    second: cartoon-bomb-explosion-storyboard-animation_27
+  - first:
+      213: 1545647734375199397
+    second: cartoon-bomb-explosion-storyboard-animation_28
+  - first:
+      213: -1935414986333563240
+    second: cartoon-bomb-explosion-storyboard-animation_29
+  - first:
+      213: -2239201851471899121
+    second: cartoon-bomb-explosion-storyboard-animation_30
+  - first:
+      213: -3557996219164386165
+    second: cartoon-bomb-explosion-storyboard-animation_31
+  - first:
+      213: 6342698699924636299
+    second: cartoon-bomb-explosion-storyboard-animation_32
+  - first:
+      213: -5631294738562156363
+    second: cartoon-bomb-explosion-storyboard-animation_33
+  - first:
+      213: -2376286033613814784
+    second: cartoon-bomb-explosion-storyboard-animation_34
+  - first:
+      213: -5519692042252474198
+    second: cartoon-bomb-explosion-storyboard-animation_35
+  - first:
+      213: -291563370222129202
+    second: cartoon-bomb-explosion-storyboard-animation_36
+  - first:
+      213: -5887700531130663045
+    second: cartoon-bomb-explosion-storyboard-animation_37
+  - first:
+      213: 2478179736858792024
+    second: cartoon-bomb-explosion-storyboard-animation_38
+  - first:
+      213: -1873859100578428971
+    second: cartoon-bomb-explosion-storyboard-animation_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animation_explosion_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 629
+        width: 338
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f6358970e3e2420800000000000000
+      internalID: 2607089436635393926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_explosion_2
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 590
+        width: 429
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcd1abe50935b5c0800000000000000
+      internalID: -4200388379862246178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_explosion_3
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 551
+        width: 630
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e794669a830280c0800000000000000
+      internalID: -4575090377691457568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_explosion_6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 106
+        width: 582
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1566c065c11186360800000000000000
+      internalID: 7162994020733183569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_explosion_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 730
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17d11cf6ee06b1d0800000000000000
+      internalID: -3335462088786979044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_explosion_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 67
+        width: 701
+        height: 503
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07f6573fbe8a2f20800000000000000
+      internalID: 3398685820722804492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animation_explosion_5
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 125
+        width: 514
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1e76c0ce05f9c40800000000000000
+      internalID: 5521220642930155963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dd6066bebaf5d984abdcd50e72c8d954
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      animation_explosion_0: -3335462088786979044
+      animation_explosion_1: 2607089436635393926
+      animation_explosion_2: -4200388379862246178
+      animation_explosion_3: -4575090377691457568
+      animation_explosion_4: 3398685820722804492
+      animation_explosion_5: 5521220642930155963
+      animation_explosion_6: 7162994020733183569
+      cartoon-bomb-explosion-storyboard-animation_11: 5227198673504627374
+      cartoon-bomb-explosion-storyboard-animation_12: -865360060097245882
+      cartoon-bomb-explosion-storyboard-animation_13: 4274430044256993512
+      cartoon-bomb-explosion-storyboard-animation_14: 6462524646673183272
+      cartoon-bomb-explosion-storyboard-animation_15: 7971203808051706658
+      cartoon-bomb-explosion-storyboard-animation_16: 2559627204369194526
+      cartoon-bomb-explosion-storyboard-animation_17: 3727853291455366031
+      cartoon-bomb-explosion-storyboard-animation_18: 9192921625247821495
+      cartoon-bomb-explosion-storyboard-animation_19: 5909980272999147785
+      cartoon-bomb-explosion-storyboard-animation_20: -5340236125146323089
+      cartoon-bomb-explosion-storyboard-animation_21: 667483801809417881
+      cartoon-bomb-explosion-storyboard-animation_22: 3074194210537125938
+      cartoon-bomb-explosion-storyboard-animation_23: 3720876855074908031
+      cartoon-bomb-explosion-storyboard-animation_24: -5278780976832951429
+      cartoon-bomb-explosion-storyboard-animation_25: -4222948373630878000
+      cartoon-bomb-explosion-storyboard-animation_26: 3511636972280458274
+      cartoon-bomb-explosion-storyboard-animation_27: -3143706869019476395
+      cartoon-bomb-explosion-storyboard-animation_28: 1545647734375199397
+      cartoon-bomb-explosion-storyboard-animation_29: -1935414986333563240
+      cartoon-bomb-explosion-storyboard-animation_30: -2239201851471899121
+      cartoon-bomb-explosion-storyboard-animation_31: -3557996219164386165
+      cartoon-bomb-explosion-storyboard-animation_32: 6342698699924636299
+      cartoon-bomb-explosion-storyboard-animation_33: -5631294738562156363
+      cartoon-bomb-explosion-storyboard-animation_34: -2376286033613814784
+      cartoon-bomb-explosion-storyboard-animation_35: -5519692042252474198
+      cartoon-bomb-explosion-storyboard-animation_36: -291563370222129202
+      cartoon-bomb-explosion-storyboard-animation_37: -5887700531130663045
+      cartoon-bomb-explosion-storyboard-animation_38: 2478179736858792024
+      cartoon-bomb-explosion-storyboard-animation_39: -1873859100578428971
+      cartoon-bomb-explosion-storyboard-animation_4: -9142553839481878556
+      cartoon-bomb-explosion-storyboard-animation_6: 4162425345934368451
+      cartoon-bomb-explosion-storyboard-animation_7: -4829922340658377539
+      cartoon-bomb-explosion-storyboard-animation_9: -7649872963901112169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

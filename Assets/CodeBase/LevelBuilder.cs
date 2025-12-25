@@ -35,8 +35,9 @@ namespace SpaceShooter
 
             Instantiate(m_PlayerHUDPrefab);
             GameObject playerGUI = Instantiate(m_PalyerGUIPrefab);
+#if UNITY_ANDROID
             Instantiate(m_VirtualGamepadPrefab, playerGUI.transform);
-
+#endif
             GameObject background = Instantiate(m_BackgroundPrefab);
             background.AddComponent<SyncTransform>().SetTarget(player.CameraController.transform);
         }

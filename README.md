@@ -16,3 +16,4 @@ This is a learning project made by me with free assets. There are three levels a
 ##Setup
 - Android: Download **Public/Space Shooter.apk** and install
 - Windows: Download and unpack **Public/Space Shooter.zip** and run **Space Shooter.exe** file
+[Download From G-Drive](https://drive.google.com/drive/folders/1vhNebXonQvvgJfgl2eKT0hd6_0A_aaXX?usp=drive_link)
